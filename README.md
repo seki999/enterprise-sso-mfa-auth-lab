@@ -1,13 +1,6 @@
 # enterprise-sso-mfa-auth-lab
 
-本プロジェクトは、Cisco Duo 等の MFA / SSO 製品導入を想定した、企業向け認証基盤の学習・検証用サンプルです。実製品の複製ではなく、SSO、MFA、OIDC/SAML、RADIUS/LDAP/AD連携、認証ポリシー、認証ログ、設計・構築・試験観点を整理することを目的としています。
-
-## 重要な注意
-
-- 本プロジェクトは学習・検証用であり、Cisco Duo公式製品の複製ではありません。
-- Cisco / Duo のロゴ、商標画像、公式UIの模倣は含めていません。
-- Client Secret、API Key、Integration Key、Secret Key、電話番号、QRコード、管理者URLなどの機密情報は含めていません。
-- 実案件、実会社、実顧客名は使用せず、架空の社内業務システムとして表現しています。
+本プロジェクトは、Cisco Duo 等の MFA / SSO 製品導入を想定した、企業向け認証基盤の検証用サンプルです。実製品の複製ではなく、SSO、MFA、OIDC/SAML、RADIUS/LDAP/AD連携、認証ポリシー、認証ログ、設計・構築・試験観点を整理することを目的としています。
 
 ## プロジェクト概要
 
